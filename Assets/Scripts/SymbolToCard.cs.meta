@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9f9b4938734355b41b4316362f1699de
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Outcard: {instanceID: 0}
+  - sym: {instanceID: 0}
+  - sp_circle: {instanceID: 0}
+  - sp_triangle: {instanceID: 0}
+  - sp_rectangle: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

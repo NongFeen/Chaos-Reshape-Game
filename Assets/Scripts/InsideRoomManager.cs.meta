@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 59d2cb9423e9d2740820583d05395458
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shadowPrefab: {fileID: 4402899796139515792, guid: aee5a545686746e468a584c04d3dc8c9, type: 3}
+  - parentTransform: {instanceID: 0}
+  - InsideCard: {instanceID: 0}
+  - CorrectStatue: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
